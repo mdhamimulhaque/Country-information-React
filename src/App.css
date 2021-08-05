@@ -1,0 +1,10 @@
+ .container-box{
+    display: flex;
+}
+.country{
+  width: 100%;
+  text-align: center;
+}
+.country-info{
+  width: 40%;
+}

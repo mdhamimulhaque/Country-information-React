@@ -1,0 +1,20 @@
+
+
+.country-box{
+  background-color: paleturquoise;
+  margin-bottom:20px;
+  padding: 20px;
+}
+
+.country-box img{
+  height: 70px 
+ }
+ .country-box button{
+  padding: 7px 15px;
+  color:#fff;
+  background-color: midnightblue;;
+  border: 2px solid #fff; 
+  border-radius: 5px;
+  font-weight: bold;
+ }
+
